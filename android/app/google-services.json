@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590129396378",
+    "project_id": "walky-8604a",
+    "storage_bucket": "walky-8604a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590129396378:android:8d59b34f9635a4f8b13d23",
+        "android_client_info": {
+          "package_name": "com.example.galleria_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYCMOrqbKwjQ8pLNgzKZE1V0IXhY5cU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
